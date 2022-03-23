@@ -1,0 +1,80 @@
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.exe
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.deps.json
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.runtimeconfig.json
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.runtimeconfig.dev.json
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.dll
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\bin\Debug\net5.0-windows\ref\Car Hire Partial.dll
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.pdb
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.csproj.AssemblyReference.cache
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\Result.g.cs
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\App.g.cs
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial_MarkupCompile.cache
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial_MarkupCompile.lref
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\MainWindow.baml
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\Result.baml
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.g.resources
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.AssemblyInfoInputs.cache
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.AssemblyInfo.cs
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.csproj.CoreCompileInputs.cache
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.dll
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\ref\Car Hire Partial.dll
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.pdb
+D:\College\HNC Developing Small Scale Apps\PresentationMaterial\2018 - WPF\Week10,11,12\Sample Solution\NET5\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.genruntimeconfig.cache
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.exe
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.deps.json
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.runtimeconfig.json
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.runtimeconfig.dev.json
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.dll
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\ref\Car Hire Partial.dll
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.pdb
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.csproj.AssemblyReference.cache
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Result.g.cs
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial_MarkupCompile.cache
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial_MarkupCompile.lref
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Result.baml
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.g.resources
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.AssemblyInfoInputs.cache
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.AssemblyInfo.cs
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.csproj.CoreCompileInputs.cache
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.dll
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\ref\Car Hire Partial.dll
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.pdb
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.genruntimeconfig.cache
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.exe
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.deps.json
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.runtimeconfig.json
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.runtimeconfig.dev.json
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.dll
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\ref\Car Hire Partial.dll
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\bin\Debug\net5.0-windows\Car Hire Partial.pdb
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.csproj.AssemblyReference.cache
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\DaysForHireWindow.g.cs
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Result.g.cs
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial_MarkupCompile.cache
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial_MarkupCompile.lref
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\DaysForHireWindow.baml
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Result.baml
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.g.resources
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.AssemblyInfoInputs.cache
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.AssemblyInfo.cs
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.csproj.CoreCompileInputs.cache
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.dll
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\ref\Car Hire Partial.dll
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.pdb
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\Car Hire Partial.genruntimeconfig.cache
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\DriversAgeWindow.g.cs
+C:\Users\20137735\Downloads\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\DriversAgeWindow.baml
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\DaysForHireWindow.g.cs
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\DriversAgeWindow.g.cs
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\DaysForHireWindow.baml
+C:\Users\ryan2\OneDrive\Documents\College\HNC\Small Scale Applications\Week 1 (block 3)\Car Hire Partial\obj\Debug\net5.0-windows\DriversAgeWindow.baml

@@ -1,0 +1,16 @@
+﻿<Window x:Class="Car_Hire_Partial.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Car_Hire_Partial"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Please select the car you wish to hire from the list" HorizontalAlignment="Left" Margin="72,44,0,0" VerticalAlignment="Top" Height="43" Width="280"/>
+        <ListBox x:Name="listCars" HorizontalAlignment="Left" Height="231" Margin="56,92,0,0" VerticalAlignment="Top" Width="312" SelectionChanged="listCars_SelectionChanged"/>
+        <Label Content="Please select the pickup location" HorizontalAlignment="Right" Margin="0,44,116,0" VerticalAlignment="Top" Height="43" Width="193"/>
+        <ListBox x:Name="listLocations" HorizontalAlignment="Right" Height="231" Margin="0,92,56,0" VerticalAlignment="Top" Width="312" SelectionChanged="listLocations_SelectionChanged"/>
+        <Button x:Name="btnContinue" Content="Continue" HorizontalAlignment="Center" Margin="0,352,0,0" Width="182" FontSize="18" Click="btnContinue_Click" Height="44" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
